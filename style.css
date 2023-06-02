@@ -1,0 +1,17 @@
+.back{
+   background-color: 
+   #241f21;
+   border: none;
+   outline: #241f21;
+}
+.white{
+    color: white;
+    font-family: 'Lucida Sans';
+}
+.white1{
+    color: white;
+    background-color: #241f21;
+    border-top: none;
+    border-left: none;
+    border-right: none ;
+}
